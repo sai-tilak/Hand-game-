@@ -1,0 +1,12 @@
+Step 1 – Importing the necessary modules.
+We make use of a few modules while building the game. Let me introduce you to them one after another.
+1. Random Module : It is a built-in module used to generate random objects be it integers, floating-point numbers, or other objects.
+2. Getpass module: Getpass module is typically used to get passwords from the users but in the game, the same is used to hide the input of player 1 from player 2 for a fair game.
+ import random
+ import getpass
+ Step 2 – Printing Greeting Messages and asking the player about how it wants to play the game.
+It is advisable for a game builder to greet the player before the game begins. 
+Better greeting messages makes your game better than the other developers of the same game. 
+After greeting the player is asked if it wants to play with the computer or a friend or wants to simply exit the game.
+Step 3 – Creating the separate functions for various purposes.
+Now a major step in building the game is defining the required functions for the proper working of the game. Let us build all the projects from the scratch.
