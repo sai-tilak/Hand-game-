@@ -17,7 +17,7 @@ Rock wins against scissors.
 Scissors win against the paper.
 Paper wins against the rock.
 Building Rock Paper Scissors in Python
-We will divide the whole game building into parts to![Car+Number+Plate+Recognition+Matlab+Project]
+
  make it simple for you! All the steps we will be taking for building the game are mentioned below:
 
 Importing all the necessary modules
